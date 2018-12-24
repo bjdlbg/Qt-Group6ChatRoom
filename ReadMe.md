@@ -1,1 +1,2 @@
-# qt 下实现聊天软件
+# Linux环境 + QT Creator + C++语言 实现聊天室
+
