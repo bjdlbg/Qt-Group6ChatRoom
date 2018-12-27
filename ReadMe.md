@@ -4,10 +4,10 @@
 基于tcp/ip协议的网路聊天程序，分为服务端与客户端。
 首先运行服务端，打开端口监听，之后运行客户端连接。
 - 截图：
-server端
+1. server端
 ![image.png](https://upload-images.jianshu.io/upload_images/13139591-e184ca2a05859efc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-client端
+2. client端
 ![image.png](https://upload-images.jianshu.io/upload_images/13139591-6791cf909d279d53.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 程序名称：Group6ChatRoom
