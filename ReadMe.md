@@ -12,7 +12,6 @@
 
 - 程序名称：Group6ChatRoom
 - 程序功能：
-
 | 功能名称 | 完成情况 | 具体内容 |
 | ------ | ------ | ------ |
 | 实现两端通讯 | 已完成 | server开启监听等待到来的client并创建线程处理 |
@@ -28,4 +27,5 @@
 | 自定义背景 | 进行中 | 用户可以选择背景自己修改 |
 | 读取聊天记录 | 进行中 | 用户从本地读取自己的聊天记录 |
 
-背景图片来自 [WLOP](https://www.patreon.com/wlop)    感谢提供部分代码参考的大佬[FFEVER](https://github.com/FFEVER)
+背景图片来自喜爱的画师 [WLOP](https://www.patreon.com/wlop)    
+并感谢提供部分代码参考的大佬[FFEVER](https://github.com/FFEVER)
