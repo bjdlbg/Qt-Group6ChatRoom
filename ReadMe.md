@@ -5,10 +5,18 @@
 首先运行服务端，打开端口监听，之后运行客户端连接。
 - 截图：
 1. server端
-![image.png](https://upload-images.jianshu.io/upload_images/13139591-e184ca2a05859efc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![server.png](https://i.loli.net/2019/06/26/5d1361195eb8321904.png)
+![server2.png](https://i.loli.net/2019/06/26/5d1361367ee2659092.png)
 
 2. client端
-![image.png](https://upload-images.jianshu.io/upload_images/13139591-6791cf909d279d53.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![client.png](https://i.loli.net/2019/06/26/5d13615e14b7891738.png)
+![client2.png](https://i.loli.net/2019/06/26/5d13615e2183020577.png)
+
+3. 聊天
+![chat.png](https://i.loli.net/2019/06/26/5d13618ac300c16707.png)
+
+4. 聊天记录
+![chatmessage.png](https://i.loli.net/2019/06/26/5d13618ab57d674736.png)
 
 - 程序名称：Group6ChatRoom
 - 程序功能：
